@@ -1,0 +1,39 @@
+.navbar-custom {
+    height: 4rem;
+    padding: 1rem 1.5rem;
+    //float: left;
+    //width: 100%;
+}
+
+nav a{
+    color: black;
+}
+
+.navbar-brand a img {
+    height: 2 rem;
+    padding-right: .25rem;
+}
+
+.nav-item-custom {
+    padding-left: 6rem; 
+}
+
+//nav a .left {
+//    float: left;
+//}
+
+nav a .right {
+    float: right;
+}
+
+//.nav-link {
+//    width: 100%;
+//}
+
+//.navbar {
+//    height: 2rem;
+//}
+
+//.navbar a {
+//    color: black;
+//}
