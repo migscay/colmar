@@ -35,14 +35,12 @@ article p {
 }
 
 .section-custom {
-    //height: 4rem;
     padding: 2rem 1.5rem;
-    //float: left;
-    //width: 100%;
 }
 
 .article-custom {
-    padding-left: 1.5rem;
+    padding: 2rem 1.5rem;
+    //padding-left: 1.5rem;
 }
 
 //.article-custom .row{
