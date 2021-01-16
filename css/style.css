@@ -18,12 +18,59 @@ nav a{
     padding-left: 6rem; 
 }
 
+.bg-customgray {
+    background-color: #bfbfbf;
+}
+
 //nav a .left {
 //    float: left;
 //}
 
 nav a .right {
     float: right;
+}
+
+article p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section-custom {
+    //height: 4rem;
+    padding: 2rem 1.5rem;
+    //float: left;
+    //width: 100%;
+}
+
+.article-custom {
+    padding-left: 1.5rem;
+}
+
+//.article-custom .row{
+//    padding-left: 0;
+//}
+
+//.article-custom .row h1{
+//    padding-left: 0;
+//}
+
+//.article-custom .row p{
+//    padding-left: 0;
+//}
+
+.button-custom {
+    color: white;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    background-color: #999999;
+}
+
+.padding-left0 {
+    padding-left: 0;
+}
+
+.padding-sides24 {
+    padding-left: 1.5rem;    
+    padding-right: 1.5rem;    
 }
 
 //.nav-link {
