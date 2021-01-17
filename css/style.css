@@ -35,12 +35,33 @@ article p {
 }
 
 .section-custom {
-    padding: 2rem 1.5rem;
+    padding: 2rem 1.5rem;   
 }
+
+.container-custom {
+    padding: 2rem 1.5rem;   
+}
+
 
 .article-custom {
     padding: 2rem 1.5rem;
     //padding-left: 1.5rem;
+}
+
+.padding32x24 {
+    padding: 2rem 1.5rem;
+}
+
+.padding32x32 {
+    padding: 2rem 2rem;
+}
+
+.padding32x72 {
+    padding: 2rem 4.5rem;
+}
+
+.padding-sides-72 {
+    padding: 0 4.5rem;
 }
 
 //.article-custom .row{
@@ -57,8 +78,19 @@ article p {
 
 .button-custom {
     color: white;
-    padding-top: .5rem;
-    padding-bottom: .5rem;
+    padding: .5rem 0;
+    border-style: none;
+    margin: 0;
+    width: 100%;
+    //padding-top: .5rem;
+    //padding-bottom: .5rem;
+    background-color: #999999;
+}
+
+.btn-custom {
+    width: 100%;
+    color: white;
+    padding: .5rem 0;
     background-color: #999999;
 }
 
@@ -69,6 +101,15 @@ article p {
 .padding-sides24 {
     padding-left: 1.5rem;    
     padding-right: 1.5rem;    
+}
+
+.padding-sides32 {
+    padding-left: 2rem;    
+    padding-right: 2rem;    
+}
+
+.padding-none {
+    padding: 0 0;    
 }
 
 //.nav-link {
