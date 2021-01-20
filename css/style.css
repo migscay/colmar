@@ -9,6 +9,10 @@ nav a{
     color: black;
 }
 
+footer a{
+    color: black;
+}
+
 .navbar-brand a img {
     height: 2 rem;
     padding-right: .25rem;
@@ -20,6 +24,15 @@ nav a{
 
 .bg-customgray {
     background-color: #bfbfbf;
+}
+
+.video-fluid {
+    height: 100%;
+}
+
+.img-custom {
+    height: 100%;
+    width: 35%;
 }
 
 //nav a .left {
@@ -50,6 +63,10 @@ article p {
 
 .padding32x24 {
     padding: 2rem 1.5rem;
+}
+
+.padding16x24 {
+    padding: 1rem 1.5rem;
 }
 
 .padding32x32 {
